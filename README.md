@@ -1,5 +1,5 @@
 # random-english-words
-Generate random english words
+Generate random english words using [VOA special words](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
 
 ## Installation
 npm install random-english-words
